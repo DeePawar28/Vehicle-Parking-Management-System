@@ -13,7 +13,7 @@ The **Vehicle Parking Management System** is a web-based application designed to
 ✅ View and Export Reports  
 
 ## ⚙️ Technologies Used  
-- **Frontend:** HTML, CSS, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP, MySQL  
 - **Database:** MySQL  
 - **Libraries:** jQuery, Chart.js  
