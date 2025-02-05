@@ -22,7 +22,7 @@ The **Vehicle Parking Management System** is a web-based application designed to
 1. **Clone the Repository**  
    ```bash
    git clone Vehicle-Parking-Management-System.git
-   cd Vehicle-Parking-Management-System
+   cd vehicle-parking
    ```
 2. **Setup Database**  
    - Import `database.sql` into MySQL  
@@ -31,7 +31,7 @@ The **Vehicle Parking Management System** is a web-based application designed to
 3. **Run the Project**  
    - Start a local server (e.g., XAMPP, WAMP)  
    - Place the project folder in `htdocs` (for XAMPP)  
-   - Open `http://localhost/Vehicle-Parking-Management-System/` in a browser  
+   - Open `http://localhost/vehicle-parking/` in a browser  
 
 ## 🔑 Admin Login Details  
 **Username:** `admin`  
